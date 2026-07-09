@@ -10,4 +10,3 @@ This project was created as part of the course [Automation Testing with Selenium
 - Selenium WebDriver
 - pytest
 - Page Object Model (POM)
-- 
